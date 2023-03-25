@@ -1,0 +1,1 @@
+This module can reduce CPU frequce for Xiaomi 13 Pro (For power save).

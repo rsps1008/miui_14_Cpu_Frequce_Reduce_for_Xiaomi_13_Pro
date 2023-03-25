@@ -1,0 +1,7 @@
+id=CpuFrequceReduce
+name=Reduce CPU Frequce For Xiaomi 13 Pro
+author=rsps1008
+version=v1
+versionCode=1
+description=Reduce 2nd and 3rd CPU Frequce For Xiaomi 13 Pro
+minMagisk=20400
